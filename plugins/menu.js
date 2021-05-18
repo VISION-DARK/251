@@ -94,10 +94,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │ Tanggal Islam: *%dateIslamic*
 │ Waktu: *%time*
 │
-│ Uptime: *%uptime (%muptime)*
-│ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Waktu aktif: *%uptime (%muptime)*
 ╰────
 %readmore`
     let header = conn.menu.header || '╭─「 %category 」'
