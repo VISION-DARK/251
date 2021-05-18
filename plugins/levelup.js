@@ -11,7 +11,7 @@ Kurang *${max - user.exp}* lagi!
   }
   user.level++
   m.reply(`
-Selamat, anda telah naik level!
+Selamat, kamu telah naik level! Jangan lupa subscribe channed owner [fakhrul 251]
 *${user.level - 1}* -> *${user.level}*
   `.trim())
 }
