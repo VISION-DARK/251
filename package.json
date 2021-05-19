@@ -1,7 +1,7 @@
 {
-  "name": "F•BKT",
-  "version": "EXE",
-  "description": "Bot whatsapp",
+"name": "wabot-aq",
+  "version": "2.1.0",
+  "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
   "directories": {
